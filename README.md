@@ -7,3 +7,5 @@ The goal of the notebook is for us to create a neural network model in Keras tha
 We will create employment categories, which allows us to view the overall distribution of employees according to category and which will also allow us to compare employee performance according to their categorical averages and standard deviations to create numerical representations of "overperformance" and "underperformance".
 
 Using these performance metrics, we will be able to identify likely to leave employees that offer "overperformance" that should be incentivized to remain at the company as well as employees that offer "underperformance" that could be considered for retrenchment if it becomes a necessary for the survival of the company.
+
+Finally, we look at some inter business unit performance.
