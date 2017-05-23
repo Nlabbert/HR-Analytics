@@ -1,4 +1,4 @@
-# HR-Analytics
+# HR-Analytics Neural Networks in Keras
 Using Keras we analyze HR data from https://www.kaggle.com/ludobenistant/hr-analytics
 
 ### HR Analytics Neural Network in Keras
